@@ -1,1 +1,3 @@
 Making the necessary changes to move to production stage
+
+To be triggered only if master branch is up
